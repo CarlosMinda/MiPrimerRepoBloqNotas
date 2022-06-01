@@ -1,0 +1,42 @@
+185.81.193.40/32
+190.63.241.46/32
+45.178.38.0/24
+45.178.39.0/24
+99.145.203.154/32
+181.199.59.0/24
+181.199.52.0/24
+181.199.50.0/24
+157.100.91.0/24
+157.100.76.0/24
+191.99.140.203/32
+181.199.51.34/32
+181.199.51.0/24
+181.199.53.98/32
+181.199.53.0/24
+10.212.134.0/24
+190.63.126.0/24
+157.100.171.0/24
+67.79.68.21/32
+181.199.59.217/32
+186.1.137.0/24
+5.151.89.16/32
+200.24.138.0/24
+200.24.138.109/32
+
+ya mija veras te voy a enseñar uno y despues ya puedes hacer tu, git hub este, te permite guardar cosas puede ser
+cualquier archivo pero en general es para programación.
+y el git ese otro es para que puedas guardar a tu git hub desde cualquier lado.
+ahorita voy a crear un "repositorio" eso es como una carpeta en git hub, siempre que quieras hacer un nuevo
+programa te creas un nuevo repositorio.
+ejemplo hagamos cuenta que este bloq de notas es un programa entonces vamos a guardar el programa en una 
+carpeta especifica en tu pc
+ya esta guardado en una carpeta en mis documentos 
+abrele
+aqui vas a organizar por carpetas dentro de esa que tienes, por ejemplo sqlserver+C# o C++ o Python
+entonces cada carpeta tuya sera un repositorio de git hub
+pasos:
+1. creas el archivo (el bloq de notas u otro)
+2.creas el repositorio en tu git hub (publico o privado) yo creo bastantes publicos; los publicos lo puede ver cualquier
+persona y los privados solo tu; (tengo pocos ggg) pero tengo 3 privados que no puedes ver 
+3. vas a la carpeta donde tienes tu programa que vas a unir con el repositorio que creaste (fijate
+voy a guardar lo que tenemos ahorita escrito)
