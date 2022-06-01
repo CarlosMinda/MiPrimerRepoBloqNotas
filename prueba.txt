@@ -39,4 +39,22 @@ pasos:
 2.creas el repositorio en tu git hub (publico o privado) yo creo bastantes publicos; los publicos lo puede ver cualquier
 persona y los privados solo tu; (tengo pocos ggg) pero tengo 3 privados que no puedes ver 
 3. vas a la carpeta donde tienes tu programa que vas a unir con el repositorio que creaste (fijate
-voy a guardar lo que tenemos ahorita escrito)
+voy a guardar lo que tenemos ahorita escrito); click derecho y abres git (bash)
+4. siempre haces esto al inicio cuando creas pilas
+4.1. git init (te sale la rama "master" esto solo es como iniciar un controlador) luego consultas ramas en git hub y como moverte con git pero yo no se mucho ggg
+te dice q pongas luego eso pero no va a valer asi que haces esto
+4.2. git add .  (aqui es como que preparas un paquete en tu computadora que luego vas a mandar a git hub)
+4.3. git commit -m "first commit" (creas un commit, un commit es un punto o un estado en el tiempo, es decir ahorita voy a crear un punto 
+en el tiempo que tendra el nombre de "first commit")
+al inicio en cualquier pc donde instales git te saldra este error, no es error pero te pide algo extra
+escribe tu correo de git hub mija plox deja pienso que paso, soy pendejo borre la sentencia :v
+recuerda que nos dio error, entonces hay q repetir esa linea antes
+4.4. git branch -M main (vas a la rama principal, a mi me gusta ir a la master pero es lo mismo)
+5. git remote add origin https://github.com/CarlosMinda/MiPrimerRepoBloqNotas.git
+este link que copio nunca es el mismo, depende del repositorio creado; los anteriores pasos si son los
+mismo, pero este si te cambiara, fijate esto si creas mi segundorepo sabe cambiar eso
+6.git push -u origin main
+doy enter y mira la magia este no se cambia al menos que estes en otra rama( lo de las ramas consultas luego cuando 
+tengas tiempo)pilas lo q va a pasar
+ahora donde esta la magia, mira creaste un repositorio q se llama "first repositorio"
+pero digamos q mañana programas otra cosa

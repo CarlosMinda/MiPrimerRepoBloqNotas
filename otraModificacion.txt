@@ -1,0 +1,5 @@
+este es otro pedazo de codigo que supuestamente tu o alguien HIso pero al final van a unir;
+entonces ahora ya no haces todos los pasos de antes sino solo
+1.git add . (guardas en paquete logico que vas a subir despues)
+2.git commit -M "segundo espacio de tiempo"
+4. git push -u origin master (guardas a git hub)
